@@ -10,9 +10,8 @@
 //
 //	std::cin >> n;
 //
-//	do
+//	for (int k = 0; k < n; ++k)
 //	{
-//		std::cout << n << '\n';
-//		n--;
-//	} while (0 < n);
+//		std::cout << k << '\n';
+//	}
 //}
